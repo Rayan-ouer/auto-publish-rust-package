@@ -1,6 +1,6 @@
 [package]
 name = "auto-publish"
-version = "0.1.4"
+version = "0.1.5"
 edition = "2024"
 authors = ["@Rayan-ouer"]
 description = "CI to publish package on crates.io"
