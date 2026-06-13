@@ -1,0 +1,12 @@
+[package]
+name = "auto-publish"
+version = "0.1.1"
+edition = "2024"
+authors = ["@Rayan-ouer"]
+description = "CI to publish package on crates.io"
+repository = "https://github.com/Rayan-ouer/auto-publish-rust-package"
+readme = "README.md"
+license = "Apache-2.0"
+keywords = ["publish", "CI"]
+
+[dependencies]
