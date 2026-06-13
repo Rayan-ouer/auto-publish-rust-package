@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/Rayan-ouer/auto-publish-rust-package/compare/v0.1.1...v0.1.2) (2026-06-13)
+
+
+### Miscellaneous Chores
+
+* chore: release 0.1.2 ([37d7435](https://github.com/Rayan-ouer/auto-publish-rust-package/commit/37d7435b4e706711e291f6428530ca49fc6c3d99))
+
 ## 0.1.1 (2026-06-13)
 
 
